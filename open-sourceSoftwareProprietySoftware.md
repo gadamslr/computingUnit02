@@ -33,11 +33,24 @@ specific purposes and needs.
 
 ## Proprietry software:
 
+# Principles of Proprietry software:
+
+- Commercial product with the intyention to make money
+- Creaters retain all the rights to the source code.
+
+
 Implications:
 - Advantages:
   - Users have little to no 
-    - 
+  - Lots of support 
+  - Extensive testing of products
+  - More development into user interface / more user friendly for people to use.
+  - 
+
  - Disadvantages:
-  - If there uis a bug in the software you have to go to the propritor
+  - If there is a bug in the software you have to go to the propritor
+  - Bad deciswion can be made example Windows 8
+  - Loose support - 
+  
   
   
