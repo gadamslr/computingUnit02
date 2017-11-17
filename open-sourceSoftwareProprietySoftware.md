@@ -1,6 +1,6 @@
-# Open-source software and propriety software
+# Open-source software and proprietry software
 
-Find out and list the principles of Open-source software and propriety software.
+Find out and list the principles of Open-source software and proprietry software.
 
 ### Principles of Open-source software?
 - Free
@@ -19,7 +19,7 @@ Find out and list the principles of Open-source software and propriety software.
 
 
 
-==# Implications:
+### Implications:
 
 - It can be copied and code changed
 by people and distributed for 
@@ -31,7 +31,7 @@ specific purposes and needs.
 
 
 
-## Propriety software:
+## Proprietry software:
 
 Implications:
 - Advantages:
