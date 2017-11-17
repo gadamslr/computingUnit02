@@ -54,3 +54,33 @@ Implications:
   
   
   
+
+
+
+
+
+Principles of open source software:
+Transparency: Everyone can view the source-code
+Participation: Anyone can contribute to developing the code.
+		Feedback
+	Continuous development: 
+	Updates
+	Free!!
+		Not commercial
+	
+Implications: 
+Advantage:
+Control: Of the source-code making it specific to their business needs.
+Safety: Any weakness can be identified quickly due to mass participation 
+Typically of higher quality: Due to number of people working on the software
+Disadvantages:
+	No warranty on the software so issues may not be dealt with
+	Can be bugs in the code
+	Less support 
+	Not specific on areas for development
+	
+
+
+
+
+
